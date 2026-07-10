@@ -129,6 +129,25 @@ Incorrect IP configuration preventing proper network communication.
 
 ---
 
+## Documentation
+
+Completed networking labs and supporting documentation:
+
+- [Configure IP Addresses](documentation/Learning%20Platform%20_%20CompTIA-Configure%20IP%20Addresses.pdf)
+- [Configure Network Printing](documentation/Learning%20Platform%20_%20CompTIA-Configure%20Network%20Printing.pdf)
+- [Connect Computers with a Switch](documentation/Learning%20Platform%20_%20CompTIA-Connect%20Computers%20with%20a%20Switch.pdf)
+- [Connect Fiber Optic Cables](documentation/Learning%20Platform%20_%20CompTIA-Connect%20Fiber%20Optic%20Cables.pdf)
+- [Connect Patch Panel Cables](documentation/Learning%20Platform%20_%20CompTIA-Connect%20Patch%20Panel%20Cables.pdf)
+- [Fix a Network Connection](documentation/Learning%20Platform%20_%20CompTIA-Fix%20a%20Network%20Connection.pdf)
+- [Install a SOHO Network](documentation/Learning%20Platform%20_%20CompTIA-Install%20a%20SOHO%20Network.pdf)
+- [SOHO Router Configuration](documentation/Learning%20Platform%20_%20CompTIA-SOHO%20Router%20Configuration.pdf)
+- [SOHO Wi-Fi Configuration Settings](documentation/Learning%20Platform%20_%20CompTIA-SOHO%20Wi-Fi%20Configuration%20Settings.pdf)
+- [Secure a Small Wireless Network](documentation/Learning%20Platform%20_%20CompTIA-Secure%20a%20Small%20Wireless%20Network.pdf)
+- [Troubleshoot a Network Issue](documentation/Learning%20Platform%20_%20CompTIA-Troubleshoot%20a%20Network%20Issue.pdf)
+- [Troubleshoot Physical Connectivity](documentation/Learning%20Platform%20_%20CompTIA-Troubleshoot%20Physical%20Connectivity.pdf)
+
+---
+
 ## Screenshots
 
 *(Screenshots of troubleshooting commands and results will be added here.)*
