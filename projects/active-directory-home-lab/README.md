@@ -105,12 +105,19 @@ Updated permissions and verified successful access.
 
 ---
 
-## Screenshots
+## Documentation
 
-*(Screenshots of Active Directory users, groups, OUs, and lab configuration will be added here.)*
+Completed lab documentation:
+
+- [Configure NTFS Permissions](documentation/Learning%20Platform%20_%20CompTIA-Configure%20NFTS%20Permissions.pdf)
+- [Configure Remote Services](documentation/Learning%20Platform%20_%20CompTIA-Configure%20Remote%20Services.pdf)
+- [Create User Accounts](documentation/Learning%20Platform%20_%20CompTIA-Create%20User%20Accounts.pdf)
+- [Explore Virtualization](documentation/documentation/Learning%20Platform%20_%20CompTIA-Explore%20Virtualization.pdf)
+- [Manage IaaS VMs](documentation/Learning%20Platform%20_%20CompTIA-Manage%20IaaS%20VMs.pdf)
+- [Azure Interface Labs](documentation/Learning%20Platform%20_%20CompTIA-Use%20the%20Azure%20Interface.pdf)
 
 ---
 
 ## Project Status
 
-🟡 In Progress
+🟡 In Progress - Expanding lab documentation and hands-on practice
