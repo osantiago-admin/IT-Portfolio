@@ -51,6 +51,13 @@ I enjoy troubleshooting technical issues, supporting end users, and continuously
 
 - 🏢 [Active Directory Home Lab](projects/active-directory-home-lab)  
   Windows Server, Active Directory users/groups, domain management, and security policies.
+
+---
+
+## 🛠 Additional Labs & Technical Skills
+
+| Lab / Skill | Completed |
+|-------------|-----------|
 | BIOS / UEFI Security | ✅ |
 | Static IP Configuration | ✅ |
 | Linux System Administration | ✅ |
@@ -68,9 +75,10 @@ More projects will be added as I continue building my home lab and completing ha
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/omar-santiago-a25b6a18a/
+
 GitHub: https://github.com/osantiago-admin
 
 ---
