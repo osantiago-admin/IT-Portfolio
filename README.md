@@ -44,11 +44,13 @@ I enjoy troubleshooting technical issues, supporting end users, and continuously
 
 ---
 
-## 📂 Featured Technical Projects
+## 🖥️ Featured Technical Projects
 
-| Project | Status |
-|---|---|
-| [Network Troubleshooting](projects/network-troubleshooting/README.md) | ✅ |
+- 🌐 [Network Troubleshooting Project](projects/network-troubleshooting)  
+  Network troubleshooting, IP configuration, connectivity testing, and diagnostics.
+
+- 🏢 [Active Directory Home Lab](projects/active-directory-home-lab)  
+  Windows Server, Active Directory users/groups, domain management, and security policies.
 | BIOS / UEFI Security | ✅ |
 | Static IP Configuration | ✅ |
 | Linux System Administration | ✅ |
