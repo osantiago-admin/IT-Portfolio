@@ -47,8 +47,8 @@ I enjoy troubleshooting technical issues, supporting end users, and continuously
 ## 📂 Featured Technical Projects
 
 | Project | Status |
-|---------|:------:|
-| Network Troubleshooting | ✅ |
+|---|---|
+| [Network Troubleshooting](projects/network-troubleshooting/README.md) | ✅ |
 | BIOS / UEFI Security | ✅ |
 | Static IP Configuration | ✅ |
 | Linux System Administration | ✅ |
@@ -66,10 +66,10 @@ More projects will be added as I continue building my home lab and completing ha
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/omar-santiago-a25b6a18a/
-- **GitHub:** https://github.com/osantiago-admin
+LinkedIn: https://www.linkedin.com/in/omar-santiago-a25b6a18a/
+GitHub: https://github.com/osantiago-admin
 
 ---
 
